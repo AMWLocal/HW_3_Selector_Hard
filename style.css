@@ -44,7 +44,7 @@ body {
 
 .link_img {
     padding: 0px 13px 0px 14px;
-    opacity: 0.5;
+    opacity: 1;
 
 }
 
@@ -63,7 +63,7 @@ a {
 
 .link_img:hover {
 
-    opacity: 1;
+    opacity: 0, 5;
 
 
 
