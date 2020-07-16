@@ -1,0 +1,60 @@
+body {
+    background-color: #121116;
+}
+
+.contaiter {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.logo {
+    padding-bottom: 40px;
+}
+
+.line {
+    border-bottom: 2px solid white;
+    max-width: 230px;
+    margin: 0 auto;
+
+}
+
+.title {
+
+    color: white;
+    letter-spacing: 2px;
+
+    text-transform: uppercase;
+    padding-bottom: 14px;
+    font-size: 19px;
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+
+
+}
+
+.social_links {
+    padding-top: 20px;
+    padding-bottom: 70px;
+
+}
+
+.link {
+    padding-bottom: 10px;
+}
+
+img {
+    padding: 0px 13px 0px 14px;
+
+}
+
+.copyright {
+    color: white;
+
+    font-family: sans-serif;
+
+}
+
+a {
+    text-decoration: none;
+    color: #02C6FB;
+}
